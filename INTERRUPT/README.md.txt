@@ -70,9 +70,3 @@ I also learned the importance of checking board schematics, pin mappings, and of
 | LED3 | PA7 |
 
 ---
-
-# 🔗 Demo Video
-
-[Add LinkedIn video post link here]
-
----
